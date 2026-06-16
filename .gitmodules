@@ -1,0 +1,3 @@
+[submodule "proto-contracts"]
+	path = proto-contracts
+	url = git@github.com:1pima/gatekeeper-proto.git

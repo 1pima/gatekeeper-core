@@ -1,0 +1,17 @@
+# Бинарники
+/bin/
+
+# grpc генерация
+/pkg/proto/
+
+# IDE и система
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Зависимости
+/vendor/
+
+# конфиги
+.env
